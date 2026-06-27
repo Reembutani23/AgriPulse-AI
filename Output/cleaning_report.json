@@ -1,0 +1,172 @@
+{
+  "timestamp": "2026-06-27T05:25:42.859988+00:00",
+  "original_shape": [
+    1040,
+    13
+  ],
+  "final_shape": [
+    1040,
+    17
+  ],
+  "rows_removed": 0,
+  "columns_removed": -4,
+  "pct_data_retained": 100.0,
+  "cleaning_steps": [
+    "Physical-constraint validation: removed 0 rows"
+  ],
+  "remaining_missing": {
+    "Country": 0,
+    "Crop": 0,
+    "Year": 0,
+    "Temperature": 0,
+    "Rainfall": 0,
+    "CO2_Emission": 0,
+    "Humidity": 0,
+    "Yield": 0,
+    "Area": 0,
+    "Production": 0,
+    "Extreme_Weather_Events": 0,
+    "Synthetic_Data_Used": 0,
+    "Data_Source": 0,
+    "Area_outlier": 0,
+    "Production_outlier": 0,
+    "Extreme_Weather_Events_outlier": 0,
+    "outlier_score": 0
+  },
+  "quality_scorecard": {
+    "timestamp": "2026-06-27T05:25:42.858989+00:00",
+    "n_rows": 1040,
+    "n_columns": 17,
+    "overall_quality_score": 0.9155,
+    "columns": {
+      "Country": {
+        "completeness": 1.0,
+        "uniqueness": 0.0096,
+        "validity": 1.0,
+        "score": 0.8192
+      },
+      "Crop": {
+        "completeness": 1.0,
+        "uniqueness": 0.0038,
+        "validity": 1.0,
+        "score": 0.8076
+      },
+      "Year": {
+        "completeness": 1.0,
+        "uniqueness": 0.025,
+        "mean": 2012.5,
+        "std": 7.5036,
+        "min": 2000.0,
+        "max": 2025.0,
+        "skew": 0.0,
+        "validity": 1.0,
+        "score": 0.85
+      },
+      "Temperature": {
+        "completeness": 1.0,
+        "uniqueness": 0.976,
+        "mean": 20.2747,
+        "std": 7.7266,
+        "min": -0.77,
+        "max": 31.674,
+        "skew": -1.0266,
+        "validity": 1.0,
+        "score": 1.0
+      },
+      "Rainfall": {
+        "completeness": 1.0,
+        "uniqueness": 1.0,
+        "mean": 1156.4111,
+        "std": 724.7067,
+        "min": 117.282,
+        "max": 2911.118,
+        "skew": 0.8021,
+        "validity": 1.0,
+        "score": 1.0
+      },
+      "CO2_Emission": {
+        "completeness": 1.0,
+        "uniqueness": 0.9933,
+        "mean": 381.0853,
+        "std": 19.3404,
+        "min": 338.354,
+        "max": 423.607,
+        "skew": 0.0122,
+        "validity": 1.0,
+        "score": 1.0
+      },
+      "Humidity": {
+        "completeness": 1.0,
+        "uniqueness": 0.9894,
+        "mean": 69.8165,
+        "std": 10.7671,
+        "min": 42.658,
+        "max": 96.731,
+        "skew": 0.077,
+        "validity": 1.0,
+        "score": 1.0
+      },
+      "Yield": {
+        "completeness": 1.0,
+        "uniqueness": 0.6885,
+        "mean": 2.1898,
+        "std": 1.5158,
+        "min": 0.6,
+        "max": 6.992,
+        "skew": 0.6967,
+        "validity": 1.0,
+        "score": 1.0
+      },
+      "Area": {
+        "completeness": 1.0,
+        "uniqueness": 1.0,
+        "mean": 373527.3209,
+        "std": 126614.4484,
+        "min": 131872.39,
+        "max": 1181744.51,
+        "skew": 1.2299,
+        "validity": 1.0,
+        "score": 1.0
+      },
+      "Production": {
+        "completeness": 1.0,
+        "uniqueness": 1.0,
+        "mean": 812059.6993,
+        "std": 626744.1634,
+        "min": 79474.71,
+        "max": 4813004.56,
+        "skew": 1.2983,
+        "validity": 1.0,
+        "score": 1.0
+      },
+      "Extreme_Weather_Events": {
+        "completeness": 1.0,
+        "uniqueness": 0.0106,
+        "mean": 2.3327,
+        "std": 1.9142,
+        "min": 0.0,
+        "max": 10.0,
+        "skew": 1.1624,
+        "validity": 1.0,
+        "score": 0.8212
+      },
+      "Synthetic_Data_Used": {
+        "completeness": 1.0,
+        "uniqueness": 0.001,
+        "mean": 1.0,
+        "std": 0.0,
+        "min": 1.0,
+        "max": 1.0,
+        "skew": 0.0,
+        "validity": 1.0,
+        "score": 0.802
+      },
+      "Data_Source": {
+        "completeness": 1.0,
+        "uniqueness": 0.001,
+        "validity": 1.0,
+        "score": 0.802
+      }
+    }
+  }
+}
