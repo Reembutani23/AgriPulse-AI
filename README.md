@@ -16,34 +16,6 @@ AgriPulse AI is an end-to-end Machine Learning project that predicts crop yield,
 
 </div>
 
----
-
-# 📑 Table of Contents
-
-- Overview
-- Problem Statement
-- Objectives
-- Features
-- Tech Stack
-- Project Architecture
-- Project Workflow
-- Folder Structure
-- Installation
-- Project Setup
-- Running the Application
-- Dataset
-- Data Pipeline
-- Machine Learning Pipeline
-- Dashboard Features
-- Model Evaluation
-- Future Enhancements
-- Screenshots
-- Contributing
-- License
-- Author
-
----
-
 # 📖 Overview
 
 Agriculture is one of the sectors most affected by climate change. Rising temperatures, changing rainfall patterns, increasing CO₂ emissions, and unpredictable weather significantly influence crop productivity.
@@ -75,6 +47,34 @@ Farmers often struggle to determine:
 Traditional prediction methods are slow and inaccurate.
 
 AgriPulse AI solves this problem using Artificial Intelligence and predictive analytics.
+
+---
+
+---
+
+# 📑 Table of Contents
+
+- Overview
+- Problem Statement
+- Objectives
+- Features
+- Tech Stack
+- Project Architecture
+- Project Workflow
+- Folder Structure
+- Installation
+- Project Setup
+- Running the Application
+- Dataset
+- Data Pipeline
+- Machine Learning Pipeline
+- Dashboard Features
+- Model Evaluation
+- Future Enhancements
+- Screenshots
+- Contributing
+- License
+- Author
 
 ---
 
