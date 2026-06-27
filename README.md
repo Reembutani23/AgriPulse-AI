@@ -540,6 +540,6 @@ If you found this project useful,
 
 ## 🌱 "Empowering Sustainable Agriculture with Artificial Intelligence."
 
-Made with ❤️ by **Ram (Reem Butani)**
+Made with ❤️ by **Reem Butani**
 
 </div>
