@@ -76,10 +76,6 @@ AgriPulse AI solves this problem using Artificial Intelligence and predictive an
 
 ---
 
----
-
-
-
 # 🎯 Objectives
 
 - Predict crop yield accurately
